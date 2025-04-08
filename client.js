@@ -274,7 +274,7 @@ const soma_requisicoes = async (lista)=>{
     
   }
 
-  caca_tesouro("http://servidor-exercicios-js.vercel.app/exercicio/caca-ao-tesouro/exooq").then((resp)=> console.log(resp));
+  // caca_tesouro("http://servidor-exercicios-js.vercel.app/exercicio/caca-ao-tesouro/exooq").then((resp)=> console.log(resp));
 
 
 
@@ -326,7 +326,7 @@ const function_names = {
   "maior-prefixo-comum":maior_prefixo_comum,
   "soma-segundo-maior-e-menor-numeros":soma_segundo,
   "conta-palindromos": conta_palindromos,
-  "soma-de-strings-de-ints":soma_strings,
-  "soma-com-requisicoes":soma_requisicoes,
-  "caca-ao-tesouro":caca_tesouro
+  "soma-de-strings-de-ints":soma_strings
+  // "soma-com-requisicoes":soma_requisicoes,
+  // "caca-ao-tesouro":caca_tesouro
 }
