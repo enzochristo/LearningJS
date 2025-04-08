@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "scripts": {
+    "client": "node client.js"
+  },
+  "type": "module"
+}
